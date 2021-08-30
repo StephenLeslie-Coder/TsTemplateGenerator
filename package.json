@@ -1,6 +1,6 @@
 {
-  "name": "nodejstemplategenerator",
-  "version": "1.0.0",
+  "name": "tsgentr",
+  "version": "1.0.1",
   "description": "A CLI to skip the annoying process of folder creation for new projects.",
   "main": "dist/bin/index.js",
   "bin": "./dist/bin/index.js",
